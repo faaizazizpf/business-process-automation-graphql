@@ -109,8 +109,6 @@ If you change paths, branch names, or the virtualenv name, update `services/Sync
 
 Repo owner: @faaizazizpf
 
-License: (add license details here if desired)
 
----
 
-If you want, I can create and commit this README.md into the repository for you, or update the batch file to include output logging and configurable path options. Which would you like me to do next?
+
