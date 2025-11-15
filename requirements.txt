@@ -1,0 +1,11 @@
+apscheduler
+requests
+python-dotenv
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+psycopg2-binary
+sqlalchemy
+selenium
+schedule
